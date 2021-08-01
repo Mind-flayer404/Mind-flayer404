@@ -24,8 +24,12 @@
 
 ---
 
- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Github Stats 📊
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Github Stats 📈
  <p align="center">
+    <img
+        height="160em"
+        src="https://github-readme-stats.vercel.app/api?username=Mind-flayer404&hide_border=true&show_icons=true&include_all_commits=true&theme=tokyonight"
+      />
     <img
         height="160em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mind-flayer404&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"

@@ -6,13 +6,7 @@
 
 <p align="center">
  <a href="mailto:shashankdey3107@gmail.com">
-  <img align="left" alt="Shashank Dey Gmail" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/gmail.svg" />
- </a>
- <a href="https://twitter.com/ShashankDey1">
-  <img align="left" alt="Shashank Dey Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
- </a>
- <a href="https://www.linkedin.com/in/shashank-dey-971a97179/">
-  <img align="left" alt="Shashank Dey LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="30px">
  </a>
 </p><br>
 

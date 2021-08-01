@@ -1,6 +1,22 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , it's Shashank here, nice to meet you !!! 😊
 
 ---
+
+### Contact
+
+<p align="center">
+ <a href="mailto:shashankdey3107@gmail.com">
+  <img align="left" alt="Shashank Dey Gmail" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/gmail.svg" />
+ </a>
+ <a href="https://twitter.com/ShashankDey1">
+  <img align="left" alt="Shashank Dey Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+ </a>
+ <a href="https://www.linkedin.com/in/shashank-dey-971a97179/">
+  <img align="left" alt="Shashank Dey LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+ </a>
+</p>
+
+---
 - 🎓 I am a final year undergraduate from IIIT Vadodara studying Computer Science and Engineering
 - 💻 I use Javascript for Web Development and C++ for Competitive Programming
 - ⚽ I love to play football and 🏏 cricket

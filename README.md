@@ -23,7 +23,7 @@
  <a href="https://www.hackerrank.com/SD_strange">
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
  </a>
-</p><br>
+</p>
 
 ---
 - 🎓 I am a final year undergraduate from IIIT Vadodara studying Computer Science and Engineering

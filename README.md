@@ -8,6 +8,21 @@
  <a href="mailto:shashankdey3107@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
  </a>
+ <a href="https://twitter.com/ShashankDey1">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+ </a>
+ <a href="https://www.linkedin.com/in/shashank-dey-971a97179/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ </a>
+ <a href="https://github.com/Mind-flayer404">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+ </a>
+ <a href="https://www.reddit.com/user/SD_strange">
+  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
+ </a>
+ <a href="https://www.hackerrank.com/SD_strange">
+  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+ </a>
 </p><br>
 
 ---

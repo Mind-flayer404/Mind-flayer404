@@ -14,7 +14,7 @@
  <a href="https://www.linkedin.com/in/shashank-dey-971a97179/">
   <img align="left" alt="Shashank Dey LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
  </a>
-</p>
+</p><br>
 
 ---
 - 🎓 I am a final year undergraduate from IIIT Vadodara studying Computer Science and Engineering

@@ -5,4 +5,6 @@
 - 💻 I use Javascript for Web Development and C++ for Competitive Programming
 - ⚽ I love to play football and 🏏 cricket
 - 🍿 Besides programming, I love to watch anime and web series
+- 📚 In my free time, you can find me reading books
 ---
+

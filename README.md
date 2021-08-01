@@ -29,7 +29,7 @@
     <img
         height="160em"
         src="https://github-readme-stats.vercel.app/api?username=Mind-flayer404&hide_border=true&show_icons=true&include_all_commits=true&theme=tokyonight"
-      /></t>
+      />
     <img
         height="160em"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mind-flayer404&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"
@@ -37,3 +37,5 @@
  </p>
 
 ---
+
+<p align="center">Thank You ❤️</p>

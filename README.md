@@ -17,9 +17,6 @@
  <a href="https://github.com/Mind-flayer404">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
  </a>
- <a href="https://www.reddit.com/user/SD_strange">
-  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
- </a>
  <a href="https://www.hackerrank.com/SD_strange">
   <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
  </a>

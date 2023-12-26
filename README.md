@@ -23,7 +23,8 @@
 </p>
 
 ---
-- 🎓 I am a final year undergraduate from IIIT Vadodara studying Computer Science and Engineering
+- 👨‍💼 I am currently working as an Analyst at Goldman Sachs, and previously interned as a Data Engineer at Sigmoid Analytics
+- 🎓 I graduated from IIIT Vadodara studying Computer Science and Engineering
 - 💻 I use Javascript for Web Development and C++ for Competitive Programming
 - ⚽ I love to play football and 🏏 cricket
 - 🍿 Besides programming, I love to watch anime and web series

@@ -23,7 +23,7 @@
 </p>
 
 ---
-- 👨‍💼 I am currently working as an Analyst at Goldman Sachs, and previously interned as a Data Engineer at Sigmoid Analytics
+- 👨‍💼 I am currently working as a Data Engineer Associate at Goldman Sachs, and previously interned as a Data Engineer at Sigmoid Analytics
 - 🎓 I graduated from IIIT Vadodara studying Computer Science and Engineering
 - 💻 I use Javascript for Web Development and C++ for Competitive Programming
 - ⚽ I love to play football and 🏏 cricket

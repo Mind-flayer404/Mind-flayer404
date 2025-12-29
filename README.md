@@ -1,11 +1,11 @@
-### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , it's Shashank here, nice to meet you !!! 😊
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> , I am Shashank, nice to meet you !!! 😊
 
 ---
 
 ### Contact
 
 <p align="center">
- <a href="mailto:shashankdey3107@gmail.com">
+ <a href="mailto:shashankabc1234@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
  </a>
  <a href="https://twitter.com/ShashankDey1">
@@ -53,11 +53,11 @@
  <p align="center">
     <img
         height="160em"
-        src="https://github-readme-stats.vercel.app/api?username=Mind-flayer404&hide_border=true&show_icons=true&include_all_commits=true&theme=tokyonight"
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=Mind-flayer404&hide_border=true&show_icons=true&include_all_commits=true&theme=tokyonight"
       />
     <img
         height="160em"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mind-flayer404&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"
+        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mind-flayer404&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"
       />
  </p>
 

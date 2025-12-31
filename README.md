@@ -23,18 +23,21 @@
 </p>
 
 ---
-- 👨‍💼 I am currently working as a Data Engineer Associate at Goldman Sachs, and previously interned as a Data Engineer at Sigmoid Analytics
-- 🎓 I graduated from IIIT Vadodara studying Computer Science and Engineering
-- 💻 I use Javascript for Web Development and C++ for Competitive Programming
+- 👨‍💼 I am currently working as a Data Engineer Associate at Goldman Sachs, previously interned at Sigmoid Analytics
+- 🎓 I graduated from IIIT Vadodara majoring in Computer Science & Engg
+- 💻 My Tech Stack consists of - Python, SQL, Pyspark, AWS, Databricks, Snowflake
+- 💻 I use JS for Web Dev and C++ for CP
 - ⚽ I love to play football and 🏏 cricket
 - 🍿 Besides programming, I love to watch anime and web series
-- 📚 In my free time, you can find me reading books or listening 🎧 music 
+- 📚 In my free time, you can find me reading articles or listening 🎧 music 
 ---
 
 ### Languages and Tools
 
 <img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MongoDB" width="30px" src="https://skillicons.dev/icons?i=mongodb" />
+<img align="left" alt="AWS" width="30px" src="https://skillicons.dev/icons?i=aws" />
 <img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
 <img align="left" alt="CPP" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
